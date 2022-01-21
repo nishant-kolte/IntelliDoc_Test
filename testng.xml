@@ -12,14 +12,14 @@
 <!--        <class name="Tests.TemplateTest"><methods><include name="TemplateFlow"/></methods></class>-->
 <!--        <class name="Tests.CreateRoleAdminTest"><methods><include name="CreateRoleAdminFlow"/></methods></class>-->
 <!--        <class name="Tests.CreateRolePlatformAdminTest"><methods><include name="CreateRolePlatformAdminFlow"/></methods></class>-->
-       <class name="Tests.CreateUserAdminTest"><methods><include name="CreateUserAdminFlow"/></methods></class>
+<!--        <class name="Tests.CreateUserAdminTest"><methods><include name="CreateUserAdminFlow"/></methods></class> -->
 <!--        <class name="Tests.DocProcessFreeFormTest"><methods><include name="DocumentFlow"/></methods></class>-->
 <!--        <class name="Tests.DocProcessSemiStructuredTest"><methods><include name="DocumentFlow"/></methods></class>-->
 <!--        <class name="Tests.DocProcessStructuredTest"><methods><include name="DocumentFlow"/></methods></class>-->
 <!--        <class name="Tests.ProjectFlowFreeFormTest"><methods><include name="FreeFormProjectFlow"/></methods></class>-->
 <!--        <class name="Tests.ProjectFlowSemiStructureTest"><methods><include name="ProjectFlowSemiStructure"/></methods></class>-->
 <!--        <class name="Tests.RoleAccessTest"><methods><include name="RoleWiseFlow"/></methods></class>-->
-<!--        <class name="Tests.UpdateUserAdminTest"><methods><include name="UpdateUserAdminFlow"/></methods></class>-->
+       <class name="Tests.UpdateUserAdminTest"><methods><include name="UpdateUserAdminFlow"/></methods></class>
 <!--        <class name="Tests.UpdateUserPlatformAdminTest"><methods><include name="PlatformAdminUpdateUserFlow"/></methods></class>-->
     </classes>
 </test>
